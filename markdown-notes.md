@@ -9,7 +9,7 @@ I am somewhat familiar with it due to using it semi-regularly on the Discord cha
 
 My favorite examples of Markdown syntax are the ones used for emphasis purposes. 
 
-Example | Code (need to figure this out)
+Example | How to format
 ------------ | ------------ 
 **Bold** | ``**bold**``
 *Italics* | ``*italics*``
@@ -23,7 +23,7 @@ Example | Code (need to figure this out)
 
 
 
-You can even add images! For example, here is a headshot of my cat, Peggy
+You can even add images! For example, here is a headshot of my cat, Peggy.
 
 ![Picture of Peggy](https://i.ibb.co/XSrtR6M/peggy-2.jpg)
 
