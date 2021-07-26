@@ -9,15 +9,11 @@ I am somewhat familiar with it due to using it semi-regularly on the Discord cha
 
 My favorite examples of Markdown syntax are the ones used for emphasis purposes. 
 
-For example, to **bold** a text, you would use the following:
- 
-'<**bold**>'
-
 Example | Code (need to figure this out)
 ------------ | ------------ 
-**Bold** | code here
-*Italics* | code here
-(~~Strikethrough~~) | code here
+**Bold** | ``**bold**``
+*Italics* | ``*italics*``
+~~Strikethrough~~ | ``~~strikethrough~~``
 
 
 
