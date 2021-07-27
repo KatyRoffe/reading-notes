@@ -3,7 +3,7 @@
 Markdown is, in a sense, the most basic way in which to style text on web pages and applications. 
 I am somewhat familiar with it due to using it semi-regularly on the Discord chatting app...
 
-...though I usually have to refererence a [handy bookmark](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-) in order to remember the proper formatting.
+...though I usually have to reference a [handy bookmark](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-) in order to remember the proper formatting.
 
 My favorite examples of Markdown syntax are the ones used for emphatic purposes. 
 
