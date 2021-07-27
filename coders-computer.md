@@ -1,6 +1,6 @@
 # Text Editors
 Software used for writing and managing text, especially regarding websites. 
-* Alternatively, an IDE (Integrated Development Environments) is a software suite to create a package that can consist of a text editor, a file manager, a compiler, and a debugger. 
+* Alternatively, an IDE (Integrated Development Environments) is a software suite designed to create a package that can consist of a text editor, a file manager, a compiler, and a debugger. 
 
 ## Beneficial Features
 ### Code Completion
