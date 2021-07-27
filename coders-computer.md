@@ -28,7 +28,7 @@ Third Party Software Options
 * Visual Code Studio :: Has Emmet Shorthand for HTML & CSS, syntax highlighting, themes, estensions, and code completion. Developed by Microsoft. **free** *For Windows, Mac, and Linux*
 * Atom :: Has syntax highlighting, themes, and extensions. Developed by GitHub. **Free** *For Windows, Mac, and Linux*
 * Brackets :: Only suppots HTML, CSS, & JavaScript, though more advanced capabilities can be added through extensions. A good beginner's text editor. Has "Live Preview." Developed by Adobe. **Free** *For Windows, Mac, and Linux*
-* Sublime Text :: Has syntax highlighting, code completion, themes, and extensions. Known for being fast and responsive. **premium package for $70, but free basic version is available*
+* Sublime Text :: Has syntax highlighting, code completion, themes, and extensions. Known for being fast and responsive. **premium package for $70, but free basic version is available**
 
 # The Command Line
 
