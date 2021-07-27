@@ -1,5 +1,5 @@
 # reading-notes
-Class 102: Sunday in the Park with Reading Notes
+Sunday in the Park with Reading Notes
 
 Hello, my name is Katy. Thank you for visiting my [GitHub](https://github.com/KatyRoffe). 
 ___
