@@ -1,2 +1,2 @@
 # reading-notes
-Class 102: Marvelous Reading Notes
+Class 102: Sunday in the Park with Reading Notes
