@@ -2,6 +2,7 @@
 Sunday in the Park with Reading Notes
 
 Hello, my name is Katy. Thank you for visiting my [GitHub](https://github.com/KatyRoffe). 
+
 ___
 
 ## What is *Growth Mindset?*
@@ -11,5 +12,5 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * I will not compare myself to others. We all grow at different rates appropriate for our own well-being. 
 * I will remind myself that mistakes are not failures. Getting up again is what will make me grow. 
 * I will not give up. I may not understand the material now, I just need to find a new way to relate to it. 
-___
 
+___
