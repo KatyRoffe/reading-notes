@@ -22,7 +22,7 @@ You can even add images! For example, here is a headshot of my cat, Peggy.
 
 
 # GITHUB PAGES
-Github pages allows the user to turn repositories into websites. This is useful for showcasing
+Github pages allows the user to turn repositories into websites. This is useful for showcasing:
 1. Portfolios
 2. Projects
 3. Documentation
