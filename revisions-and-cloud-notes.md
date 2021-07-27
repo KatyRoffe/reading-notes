@@ -13,9 +13,9 @@ Distributed (DVCS) | Allows for mirrored repositories for simultaneous workflows
 
 # What is Git?
 
-Git is a DVCS. Every time the user saves a change (a commit) a verions of their project, Git creates a snapshot of the file and stores it for future referencing. 
+Git is a DVCS. Every time the user saves a change (a commit) a versions of their project, Git creates a snapshot of the file and stores it for future referencing. 
 
-It mostly relies on local operations without the need of fetching information from a server. This allos a user to continue working on their projects without being online or reqquiring a VPN.
+It mostly relies on local operations without the need of fetching information from a server. This allows a user to continue working on their projects without being online or requiring a VPN.
 
 Because it tracks every change applied to a file, it can detect file corruption or loss of data. 
 
@@ -68,7 +68,7 @@ Head | Points to the most recent commit
 
 ### Saving Changes
 Working copies of project files are in one of two states.
-* Tracked : These files can be modied, unmodified, or staged. 
+* Tracked : These files can be modified, unmodified, or staged. 
 * Untracked : These do not exist in the staging area. 
 
 ### Life Cycle
