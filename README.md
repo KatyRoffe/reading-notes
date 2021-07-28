@@ -10,3 +10,9 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * I will not compare myself to others. We all grow at different rates appropriate for our own well-being. 
 * I will remind myself that mistakes are not failures. Getting up again is what will make me grow. 
 * I will not give up. I may not understand the material now, I just need to find a new way to relate to it. 
+
+# Table of Contents
+[Class 01: Markdown](https://katyroffe.github.io/reading-notes/markdown-notes)
+[Class 02: The Coder's Computer](https://katyroffe.github.io/reading-notes/computer-notes)
+[Class 03: Revision and the Cloud](https://katyroffe.github.io/reading-notes/revisions-and-cloud-notes)
+[Class 04: Structure Webpages with HTML](https://katyroffe.github.io/reading-notes/html-reading-notes)
