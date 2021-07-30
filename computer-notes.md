@@ -35,3 +35,5 @@ Third Party Software Options
 # Basic Navigation
 
 # Files
+
+[Return to Home Page](https://katyroffe.github.io/reading-notes/)

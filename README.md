@@ -16,3 +16,7 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 02: The Coder's Computer](https://katyroffe.github.io/reading-notes/computer-notes)
 * [Class 03: Revision and the Cloud](https://katyroffe.github.io/reading-notes/revisions-and-cloud-notes)
 * [Class 04: Structure Webpages with HTML](https://katyroffe.github.io/reading-notes/html-reading-notes)
+* [Class 05: Design Webpages with CSS](https://katyroffe.github.io/reading-notes/css-design-notes)
+* [Dynamic Webpages with JavaScript](https://katyroffe.github.io/reading-notes/dynamic-javascript)
+* [Programming with JavaScript](https://katyroffe.github.io/reading-notes/programming-with-javascript)
+* [Operators and Loops](https://katyroffe.github.io/reading-notes/operators-and-loops)
