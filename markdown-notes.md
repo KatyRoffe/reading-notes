@@ -28,3 +28,4 @@ Github pages allows the user to turn repositories into websites. This is useful 
 3. Documentation
 4. Anything else you want the world to see!
 
+[Return to Home Page](https://katyroffe.github.io/reading-notes/)

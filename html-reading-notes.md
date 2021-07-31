@@ -38,3 +38,5 @@ Content | "This is a paragraph" | content between the opening and closing tags
 Element | `<p>This is a paragraph.</p>` | this is the completed element from start to finish 
 
 HTML can be used in a markdown file, but markdown cannot be used in an HTML file. 
+
+[Return to Home Page](https://katyroffe.github.io/reading-notes/)

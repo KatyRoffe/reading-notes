@@ -31,7 +31,3 @@ Functions allow the user to define the code one  and reuse it many times with di
 
 [Return to Home Page](https://katyroffe.github.io/reading-notes/)
 
-
-
-
-

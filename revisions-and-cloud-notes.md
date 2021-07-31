@@ -86,3 +86,5 @@ Name | Command | Purpose
 **Stash** | `git stash` | temporarily removes changes that don't want to be removed but aren't ready to commit
 **Stash Apply** | `git stash apply` | retrieves the hidden changes 
 **Git Status** | `git status` | determines the state of a file
+
+[Return to Home Page](https://katyroffe.github.io/reading-notes/)
