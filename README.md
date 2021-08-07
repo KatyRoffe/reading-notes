@@ -1,5 +1,7 @@
 # WELCOME
-Hello, my name is Katy. Thank you for visiting my [GitHub](https://github.com/KatyRoffe). 
+Hello, my name is Katy. This site is dedicated to my notes on the reading materials through my Code Fellows Journey. 
+
+Please check out my [GitHub](https://github.com/KatyRoffe) to view my other projects. 
 
 ## What is *Growth Mindset?*
 Growth Mindset is not only the decision to become a better version of youself, but also the actions taken to follow through. It is the realization and acknowledgement that natural ability, whether it be talent or intelligence, are merely stepping stones in the grand scheme of personal growth. It takes patience, effort, detemination, and a sense of humor as we advance in our pursuits. 
@@ -22,18 +24,18 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 08: Operators and Loops](https://katyroffe.github.io/reading-notes/operators-and-loops)
 
 ## Code 201 Reading Notes
-* [Class 01]()
-* [Class 02]()
-* [Class 03]()
-* [Class 04]()
-* [Class 05]()
-* [Class 06]()
-* [Class 07]()
-* [Class 08]()
-* [Class 09]()
-* [Class 10]()
-* [Class 11]()
-* [Class 12]()
-* [Class 13]()
-* [Class 14]()
-* [Class 15]()
+* [Class 01: Introductory HTML & JavaScript]()
+* [Class 02: HTML Text, CSS Introduction, & Basic JS Instructions]()
+* [Class 03: HTML Lists, CSS Boxes, JS Control Flow]()
+* [Class 04: HTML Links, CSS Layout, JS Functions]()
+* [Class 05: HTML Images, CSS Color & Text]()
+* [Class 06 JS Object Literals; The DOM]()
+* [Class 07HTML Tables; JS Constructor Functions]()
+* [Class 08: More CSS Layout]()
+* [Class 09: Forms & Events]()
+* [Class 10: JS Debugging]()
+* [Class 11: Assorted Topics]()
+* [Class 12: Docs for the HTML <canvas> Element & Chart.js]()
+* [Class 13: Local Storage]()
+* [Class 14a: CSS Transforms, Transitions, & Animations]()
+* [Class 14b: What Google Learned About Teams]()
