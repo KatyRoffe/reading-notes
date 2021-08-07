@@ -92,5 +92,39 @@ The visual design of a webpage should also be used to effectively communicate th
 # JS Notes
 
 ## Introduction
+JavaScript is used to 
+1. Access content on a page and vinf out the text input entered
+2. Modify the elements, attributes, or text on a page
+3. Program rules for the browser to follow that changes the content of a page
+4. React to actions taken on the page, such as pushing a button
 
 ## Chapter 1 || The ABC of Programming
+### What is a script?
+A **script** is a series of instruction. The computer can follow them step-by-step to achieve a specific goal. To write a script, a developer must:
+
+1. Define the goal/end result
+2. Identify each task and step involved necessary to get there
+3. Write the code to accomplish each step
+
+It is important to plan out the steps to avoid forgetting any of them. Steps need to be written in a way the computer can understand, and missing one can result in the script working incorrectly. 
+
+Computers solve problems **programmatically** and it is wise for a developer to learn to do the same. Unlike humans, computers do not "wing it" and expect dumb luck to take over. 
+
+### How do computers fit in with the world around them?
+Computers use data to create models of the world. 
+* Objects :: a representation of a physical thing
+* Properties :: characteristics of the object. every property has a **name** and **value**. 
+* Events :: interactions triggered by the computer user
+* Methods :: tasks performed using the object's properties
+
+Essentially a script allows a developer to tell the computer "when X event occurs, run code Z"
+
+### How do I write a script?
+
+HTML :: Content
+CSS :: Presentation
+JS :: Behavior
+
+These layers should be kept in separate text files. Link JS to the HTML file using the `<script>` element. When the browser comes across this element, it pauses and checks to see what it needs to do. 
+
+The script element should be placed in the HTML where the content should render on the webpage.
