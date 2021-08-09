@@ -24,7 +24,7 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 08: Operators and Loops](https://katyroffe.github.io/reading-notes/operators-and-loops)
 
 ## Code 201 Reading Notes
-* [Class 01: Introductory HTML & JavaScript]()
+* [Class 01: Introductory HTML & JavaScript](https://katyroffe.github.io/reading-notes/class-01)
 * [Class 02: HTML Text, CSS Introduction, & Basic JS Instructions]()
 * [Class 03: HTML Lists, CSS Boxes, JS Control Flow]()
 * [Class 04: HTML Links, CSS Layout, JS Functions]()
@@ -35,7 +35,7 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 09: Forms & Events]()
 * [Class 10: JS Debugging]()
 * [Class 11: Assorted Topics]()
-* [Class 12: Docs for the HTML <canvas> Element & Chart.js]()
+* [Class 12: Chart.js & Canvas]()
 * [Class 13: Local Storage]()
 * [Class 14a: CSS Transforms, Transitions, & Animations]()
 * [Class 14b: What Google Learned About Teams]()
