@@ -5,13 +5,21 @@ HTML elements are used to provide structure and semantics to a webpage.
 
 #### Structure
 `<h1>` through `<h6>` :: headings
+
 `<p>` :: paragraphs
+
 `<b>` :: bold
+
 `<i>` :: italics
+
 `<sup>` :: superscript
+
 `<sub>` :: subscript
+
 `<br>` :: creates a line break
+
 `<hr />` :: creates a line through the empty space between two lines
+
 
 Whitespace is the area between lines of code. If there are multiple spaces, they are collapsed into one space on the rendered webpage. 
 
@@ -19,16 +27,25 @@ Whitespace is the area between lines of code. If there are multiple spaces, they
 These add extra information about the content without altering the structure. 
 
 `<strong>` :: indicates strong importance of the content
+
 `<em>` :: indicates emphasis that could change the meaning of a phrase depending on where it's placed
+
 `<blockquote>` :: long quotes that take up full paragraphs
+
 `<q>` :: short quotes that sit within a paragraph
+
 `<abbr>` :: abbreviations and acronyms
+
 `<cite>` :: citations
+
 `<dfn>` :: definitions
+
 `<address>` :: contains the author's contact details
 
 `<s>` :: used to indicate something that is no longer accurate/relevant but should not be deleted
+
 `<del>` :: used to indicate text that has been deleted from the content
+
 `<ins>` :: used to indicate text that has been added to the content
 
 
@@ -68,15 +85,15 @@ Use **comments** so explain the code. They make it easier to read an understand 
 **Variables**  store data temporarily for the script. 
 - Since scripts can be run multiple times, variables are data that could be changed to create different results
 - Variables must be **declared** and given a name (an *identifier*) in order to be used
-- - Identifers are typically written in *camelCase.* ex: `var typeOfCat`
+- - Identifiers are typically written in *camelCase.* ex: `var typeOfCat`
 - Once a variable has been created, it can be assigned a value. ex:`typeOfCat = "calico";`
 
-Variables hae three main **data types.**
+Variables have three main **data types.**
 * numeric (numbers)
 * string (text or numbers contained within quote marks)
 * boolean (true or false values)
 
-Six rules for naming varialbes.
+Six rules for naming variables.
 1. Must begin with a letter, a dollar sign ($) or an underscore (_)
 2. Must not contain a dash (-) or a period (.)
 3. Must not use **keywords** or *reserved* words
@@ -106,23 +123,23 @@ Scripts may need to behave differently depending on user interaction. To determi
 
 Flowcharts can help in planning a script and determining the number of paths available to follow. 
 
-Decisions have two componenets:
+Decisions have two components:
 * An expression is evaluated and returns a value
--- The code checks the status of the scripts by comparing two values then returning either true or false (a Boolean)
-* A conditional statement says what to do in a given sitution
--- Based on the conpcept of if/then/else
+>- The code checks the status of the scripts by comparing two values then returning either true or false (a Boolean)
+* A conditional statement says what to do in a given situations
+-- Based on the concepts of if/then/else
 
 Comparison Operators
 * A condition typically has one comparison operator and an operand on either side
 * The operand does not need to be a single value - it can be an *expression*
 
 Logical Operators
-* Allow you tocompare the results of more than one comparison operator
+* Allow you to compare the results of more than one comparison operator
 * Evaluated from left to right
 
 If Statements
 * When the **if** statement evaluates a condition to be *true,* additional code is executed
-* When the statement evalues a condition to be *false,* the remaining code in the code block are not run
+* When the statement evaluates a condition to be *false,* the remaining code in the code block are not run
 
 If..Else Statements
 * When the **if** statement is *true,* a specific block of code is executed
