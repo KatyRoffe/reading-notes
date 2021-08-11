@@ -26,7 +26,7 @@ Growth Mindset is not only the decision to become a better version of youself, b
 ## Code 201 Reading Notes
 * [Class 01: Introductory HTML & JavaScript](https://katyroffe.github.io/reading-notes/class-01)
 * [Class 02: HTML Text, CSS Introduction, & Basic JS Instructions](https://katyroffe.github.io/reading-notes/class-02)
-* [Class 03: HTML Lists, CSS Boxes, JS Control Flow]()
+* [Class 03: HTML Lists, CSS Boxes, JS Control Flow](https://katyroffe.github.io/reading-notes/class-03)
 * [Class 04: HTML Links, CSS Layout, JS Functions]()
 * [Class 05: HTML Images, CSS Color & Text]()
 * [Class 06 JS Object Literals; The DOM]()
