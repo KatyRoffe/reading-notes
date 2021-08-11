@@ -14,14 +14,14 @@
 
 #### Definition lists
 * set of terms and their definitions
-* uses the `<dl>` element with the `<dt>` element used to contain the *definition term* and the `<dd>` element used to contain the defintion
+* uses the `<dl>` element with the `<dt>` element used to contain the *definition term* and the `<dd>` element used to contain the definition
 
 #### Nested Lists
 * sublists can be nested within the main list
 * simply add another set of `<ul>` and `<li>` under the appropriate item (for example, in a list about types of desserts, under the list item "pie" could be another list for types of pie)
 
 ## Chapter 13 :: Boxes
-CSS treats each HTML elements as though it belongs in its own box. The appearances of these boxes can be motified through use of:
+CSS treats each HTML elements as though it belongs in its own box. The appearances of these boxes can be modified through use of:
 * changing the dimensions
 * setting padding or margins
 * adding borders
@@ -32,10 +32,10 @@ CSS treats each HTML elements as though it belongs in its own box. The appearanc
 * sizes can be specified by use of pixels, percentages, or ems
   * percentages are based on the size of the window
   * ems are based on the size of the text
-  * percentages and ems are becoming more popular due to the flexibilty of appearance across device screens
-* minimum and maximum width can be specified to accomodate window and screen size
+  * percentages and ems are becoming more popular due to the flexibility of appearance across device screens
+* minimum and maximum width can be specified to accommodate window and screen size
 > `min-width` , `max-width` 
-* minimum and maximum height can be specified to accomodate the amount of content in the box
+* minimum and maximum height can be specified to accommodate the amount of content in the box
 >`min-height` , `max-height`
 * overflow tells the browser what to do when the content in a box is larger than the box
   * the content can be **hidden** from view OR
@@ -45,7 +45,7 @@ CSS treats each HTML elements as though it belongs in its own box. The appearanc
 All boxes have borders whether visible or invisible. 
 * Borders separate the edge of one box from another
 * Margins sit outside of the edge of the border and create gaps between them
-* Padding is the spave between the border and the contents of a box
+* Padding is the space between the border and the contents of a box
 * Margins and padding help add space between the block items on a page
 * Border width, style, and color can all be modified through CSS
 * The `display` element can turn an inline element into a block-level element and allow room for additional types of formatting
@@ -73,4 +73,3 @@ All boxes have borders whether visible or invisible.
   * **Loop Counters** can be set for conditions, used to create a set amount of times for the loop to run
   * They are particularly helpful when dealing with arrays
   * If a condition never returns false, it will trigger an *infinite loop* and eventually break the script
-  
