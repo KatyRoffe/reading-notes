@@ -29,7 +29,7 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 03: HTML Lists, CSS Boxes, JS Control Flow](https://katyroffe.github.io/reading-notes/class-03)
 * [Class 04: HTML Links, CSS Layout, JS Functions](https://katyroffe.github.io/reading-notes/class-04)
 * [Class 05: HTML Images, CSS Color & Text](https://katyroffe.github.io/reading-notes/class-05)
-* [Class 06 JS Object Literals; The DOM]()
+* [Class 06 JS Object Literals; The DOM](https://katyroffe.github.io/reading-notes/class-06)
 * [Class 07HTML Tables; JS Constructor Functions]()
 * [Class 08: More CSS Layout]()
 * [Class 09: Forms & Events]()
