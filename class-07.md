@@ -30,4 +30,3 @@
   - object constructors can use a function as a *template* to create objects. 
 
 
-  running out of time and the ability to focus. finish up at lunch. 
