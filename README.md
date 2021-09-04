@@ -1,4 +1,4 @@
-# WELCOME
+# Reading Notes
 Hello, my name is Katy. This site is dedicated to my notes on the reading materials through my Code Fellows Journey. 
 
 Please check out my [GitHub](https://github.com/KatyRoffe) to view my other projects. 
@@ -13,17 +13,17 @@ Growth Mindset is not only the decision to become a better version of youself, b
 
 # Table of Contents
 
-## Code 102 Reading Notes
-* [Class 01: Markdown](https://katyroffe.github.io/reading-notes/markdown-notes)
-* [Class 02: The Coder's Computer](https://katyroffe.github.io/reading-notes/computer-notes)
-* [Class 03: Revision and the Cloud](https://katyroffe.github.io/reading-notes/revisions-and-cloud-notes)
-* [Class 04: Structure Webpages with HTML](https://katyroffe.github.io/reading-notes/html-reading-notes)
-* [Class 05: Design Webpages with CSS](https://katyroffe.github.io/reading-notes/css-design-notes)
-* [Class 06: Dynamic Webpages with JavaScript](https://katyroffe.github.io/reading-notes/dynamic-javascript)
-* [Class 07: Programming with JavaScript](https://katyroffe.github.io/reading-notes/programming-with-javascript)
-* [Class 08: Operators and Loops](https://katyroffe.github.io/reading-notes/operators-and-loops)
+## Code 102 - Intro to Software Development
+* [Class 01: Markdown](https://katyroffe.github.io/reading-notes/code102/markdown-notes)
+* [Class 02: The Coder's Computer](https://katyroffe.github.io/reading-notes/code102/computer-notes)
+* [Class 03: Revision and the Cloud](https://katyroffe.github.io/reading-notes/code102/revisions-and-cloud-notes)
+* [Class 04: Structure Webpages with HTML](https://katyroffe.github.io/reading-notes/code102/html-reading-notes)
+* [Class 05: Design Webpages with CSS](https://katyroffe.github.io/reading-notes/code102/css-design-notes)
+* [Class 06: Dynamic Webpages with JavaScript](https://katyroffe.github.io/reading-notes/code102/dynamic-javascript)
+* [Class 07: Programming with JavaScript](https://katyroffe.github.io/reading-notes/code102/programming-with-javascript)
+* [Class 08: Operators and Loops](https://katyroffe.github.io/reading-notes/code102/operators-and-loops)
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 * [Class 01: Introductory HTML & JavaScript](https://katyroffe.github.io/reading-notes/class-01)
 * [Class 02: HTML Text, CSS Introduction, & Basic JS Instructions](https://katyroffe.github.io/reading-notes/class-02)
 * [Class 03: HTML Lists, CSS Boxes, JS Control Flow](https://katyroffe.github.io/reading-notes/class-03)
@@ -39,3 +39,7 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 13: Local Storage](https://katyroffe.github.io/reading-notes/class-13)
 * [Class 14a: CSS Transforms, Transitions, & Animations](https://katyroffe.github.io/reading-notes/class-14a)
 * [Class 14b: What Google Learned About Teams](https://katyroffe.github.io/reading-notes/class-14b)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
