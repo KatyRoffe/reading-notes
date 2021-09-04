@@ -28,7 +28,7 @@
 <br>
 
 - Psychological Safety :: The sense of confidence that the team will not embarass, reject, or punish any member who speaks up
-- some teams are made up of people who require so much emotional energy that they become draining due to fights over leadership, the tendency to critique, 
+- some teams are made up of people who require so much emotional energy that they become draining due to fights over leadership, the tendency to critique
 - some teams leave you with energy because they allow everyone to feel relaxed and there is an ehtusiasm for other people's ideas
 - While making sure teams have clear goals and are creating a culture of dependability, psychological safety plays a critical role in making a team work effectively
 - Sometimes people are likable outside of a group, but getting together on a team brings out a different side of them that makes the group's culture go wrong
@@ -40,4 +40,4 @@
 - people want to feel free enough to share things about themselves without the fear of recriminations
 - people want to feel free to talkabout things that are messy or sad or have hard conversations with 'difficult' coworkers
 - putting things like empathy and sensitivity into reporting makes them easier to talk about
-- 
+
