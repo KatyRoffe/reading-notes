@@ -41,6 +41,6 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 14b: What Google Learned About Teams](https://katyroffe.github.io/reading-notes/code201/class-14b)
 
 ## Code 301 - Intermediate Software Development
-[Class 01: Introduction to React and Components](https://katyroffe.github.io/reading-notes/code301/class-01)
+* [Class 01: Introduction to React and Components](https://katyroffe.github.io/reading-notes/code301/class-01)
 
 ## Code 401 - Advanced Software Development
