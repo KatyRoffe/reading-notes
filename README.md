@@ -42,6 +42,7 @@ Growth Mindset is not only the decision to become a better version of youself, b
 
 ## Code 301 - Intermediate Software Development
 * [Class 01: Introduction to React and Components](https://katyroffe.github.io/reading-notes/code301/class-01)
-* [Class 02: State and Props](https://katyroffe.github.io/reading-notes/code301/class-01)
+* [Class 02: State and Props](https://katyroffe.github.io/reading-notes/code301/class-02)
+* [Class 03: Passing Functions as Props](https://katyroffe.github.io/reading-notes/code301/class-03)
 
 ## Code 401 - Advanced Software Development
