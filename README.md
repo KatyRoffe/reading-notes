@@ -44,5 +44,7 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 01: Introduction to React and Components](https://katyroffe.github.io/reading-notes/code301/class-01)
 * [Class 02: State and Props](https://katyroffe.github.io/reading-notes/code301/class-02)
 * [Class 03: Passing Functions as Props](https://katyroffe.github.io/reading-notes/code301/class-03)
+* [Class 04: React and Forms](https://katyroffe.github.io/reading-notes/code301/class-04)
+* [Class 05: Putting it all together](https://katyroffe.github.io/reading-notes/code301/class-05)
 
 ## Code 401 - Advanced Software Development
