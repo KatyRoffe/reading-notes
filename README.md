@@ -46,5 +46,7 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 03: Passing Functions as Props](https://katyroffe.github.io/reading-notes/code301/class-03)
 * [Class 04: React and Forms](https://katyroffe.github.io/reading-notes/code301/class-04)
 * [Class 05: Putting it all together](https://katyroffe.github.io/reading-notes/code301/class-05)
+* [Class 06: Node.js](https://katyroffe.github.io/reading-notes/code301/class-06)
+* [Class 06: REST](https://katyroffe.github.io/reading-notes/code301/class-07)
 
 ## Code 401 - Advanced Software Development
