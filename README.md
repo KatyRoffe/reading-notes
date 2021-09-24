@@ -49,5 +49,7 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 06: Node.js](https://katyroffe.github.io/reading-notes/code301/class-06)
 * [Class 07: REST](https://katyroffe.github.io/reading-notes/code301/class-07)
 * [Class 08: APIs](https://katyroffe.github.io/reading-notes/code301/class-08)
+* [Class 09: Functional Programming](https://katyroffe.github.io/reading-notes/code301/class-09)
+* [Class 10: In Memory Storage](https://katyroffe.github.io/reading-notes/code301/class-10)
 
 ## Code 401 - Advanced Software Development
