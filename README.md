@@ -53,5 +53,7 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 10: In Memory Storage](https://katyroffe.github.io/reading-notes/code301/class-10)
 * [Class 11: Mongo & Mongoose](https://katyroffe.github.io/reading-notes/code301/class-11)
 * [Class 12: CRUD](https://katyroffe.github.io/reading-notes/code301/class-12)
+* [Class 13: Diversity](https://katyroffe.github.io/reading-notes/code301/class-13)
+* [Class 14: Authentication](https://katyroffe.github.io/reading-notes/code301/class-14)
 
 ## Code 401 - Advanced Software Development
