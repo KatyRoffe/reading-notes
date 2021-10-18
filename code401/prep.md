@@ -20,6 +20,23 @@
         - make sure variables are named meaningfully, get rid of duplications, etc
         - basic refactoring
 
+# [How to think like a programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
 
-
-
+- Have a framework and **practice** it
+    1. **Understand** exactly what is being asked
+    2. **Plan** out the exact steps of the solution
+    3. **Divide** the one big problem into smaller sub-problems
+        - solve one by one
+        - start with the simplest (the one you are the closest to answering already)
+        - then solve the problems that don't depend on others being solved
+        - solve the remainder
+        - connect the dots
+    4. **When Stuck** take a breath
+        - be curious, not irritated, about why the code doesn't work
+        - debug: go step by step to see where the code went wrong
+        - reassess: return to the general as opposed to the abstract if necessary
+        - research: someone else has already solved the problem you're working on, go find out what they did
+    5. **Practice!**
+        - no one gets better without practice
+        - a little struggle is good: it helps us learn
+        - find ways to problem solve everyday
