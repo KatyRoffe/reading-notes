@@ -20,6 +20,13 @@
         - make sure variables are named meaningfully, get rid of duplications, etc
         - basic refactoring
 
+# [Act like you make $1000/hr](https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)
+- busy doesn't necessarily nmean productive
+- most business is distraction and procrastination
+- be focused: have a clear vision of your goals and make tangible steps towards what matters in your life
+- do what matters with hard focus, but do less of it. don't stay up late working and being stressed
+- don't tolerate distractions - produce great quality in a short amount of time
+
 # [How to think like a programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
 
 - Have a framework and **practice** it
