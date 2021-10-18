@@ -40,3 +40,23 @@
         - no one gets better without practice
         - a little struggle is good: it helps us learn
         - find ways to problem solve everyday
+
+# [The 5 Whys](https://www.mindtools.com/pages/article/newTMC_5W.htm)
+
+- When a problem occurs, find the root cause by asking "why?" five times
+- When a counter-measure occurs, follow it through to prevent the issue from recurring
+
+    1. Assemble a team
+    2. Define the problem
+    3. Ask the first Why
+        - why is this problem occuring? 
+        - make the answers grounded
+    4. Ask why four more times
+        - do this for every answer provided for the first why
+    5. Know when to stop
+        - when the root cause is found, useful responses are not easy to come by when asking why
+    6. Address the root cause
+        - figure out the counter-measures
+    7. Monitor the measures
+        - see how effectively they eliminate or minimize the initial problem and prevent it from recurring
+
