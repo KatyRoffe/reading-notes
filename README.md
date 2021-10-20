@@ -57,3 +57,6 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 14: Authentication](https://katyroffe.github.io/reading-notes/code301/class-14)
 
 ## Code 401 - Advanced Software Development
+* [Class 01: Node Ecosystem, TDD, CI/CD](https://katyroffe.github.io/reading-notes/code401/class-01)
+* [Class 02: Express](https://katyroffe.github.io/reading-notes/code401/class-02)
+* [Class 03: Express REST API](https://katyroffe.github.io/reading-notes/code401/class-03)
