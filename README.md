@@ -60,3 +60,4 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 01: Node Ecosystem, TDD, CI/CD](https://katyroffe.github.io/reading-notes/code401/class-01)
 * [Class 02: Express](https://katyroffe.github.io/reading-notes/code401/class-02)
 * [Class 03: Express REST API](https://katyroffe.github.io/reading-notes/code401/class-03)
+* [Class 04: Data Modeling](https://katyroffe.github.io/reading-notes/code401/class-4)
