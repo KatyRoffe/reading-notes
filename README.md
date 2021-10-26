@@ -7,13 +7,15 @@ Please check out my [GitHub](https://github.com/KatyRoffe) to view my other proj
 Growth Mindset is not only the decision to become a better version of youself, but also the actions taken to follow through. It is the realization and acknowledgement that natural ability, whether it be talent or intelligence, are merely stepping stones in the grand scheme of personal growth. It takes patience, effort, detemination, and a sense of humor as we advance in our pursuits. 
 
 ### To keep myself in my own growth mindset:
-* I will not compare myself to others. We all grow at different rates appropriate for our own well-being. 
+
+* I will not compare myself to others. We all grow at different rates appropriate for our own well-being.
 * I will remind myself that mistakes are not failures. Getting up again is what will make me grow. 
-* I will not give up. I may not understand the material now, I just need to find a new way to relate to it. 
+* I will not give up. I may not understand the material now, I just need to find a new way to relate to it.
 
 # Table of Contents
 
 ## Code 102 - Intro to Software Development
+
 * [Class 01: Markdown](https://katyroffe.github.io/reading-notes/code102/markdown-notes)
 * [Class 02: The Coder's Computer](https://katyroffe.github.io/reading-notes/code102/computer-notes)
 * [Class 03: Revision and the Cloud](https://katyroffe.github.io/reading-notes/code102/revisions-and-cloud-notes)
@@ -24,6 +26,7 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 08: Operators and Loops](https://katyroffe.github.io/reading-notes/code102/operators-and-loops)
 
 ## Code 201 - Foundations of Software Development
+
 * [Class 01: Introductory HTML & JavaScript](https://katyroffe.github.io/reading-notes/code201/class-01)
 * [Class 02: HTML Text, CSS Introduction, & Basic JS Instructions](https://katyroffe.github.io/reading-notes/code201/class-02)
 * [Class 03: HTML Lists, CSS Boxes, JS Control Flow](https://katyroffe.github.io/reading-notes/code201/class-03)
@@ -41,6 +44,7 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 14b: What Google Learned About Teams](https://katyroffe.github.io/reading-notes/code201/class-14b)
 
 ## Code 301 - Intermediate Software Development
+
 * [Class 01: Introduction to React and Components](https://katyroffe.github.io/reading-notes/code301/class-01)
 * [Class 02: State and Props](https://katyroffe.github.io/reading-notes/code301/class-02)
 * [Class 03: Passing Functions as Props](https://katyroffe.github.io/reading-notes/code301/class-03)
@@ -57,7 +61,10 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 14: Authentication](https://katyroffe.github.io/reading-notes/code301/class-14)
 
 ## Code 401 - Advanced Software Development
+
 * [Class 01: Node Ecosystem, TDD, CI/CD](https://katyroffe.github.io/reading-notes/code401/class-01)
 * [Class 02: Express](https://katyroffe.github.io/reading-notes/code401/class-02)
 * [Class 03: Express REST API](https://katyroffe.github.io/reading-notes/code401/class-03)
 * [Class 04: Data Modeling](https://katyroffe.github.io/reading-notes/code401/class-4)
+* [Class 05: Linked Lists](https://katyroffe.github.io/reading-notes/code401/class-5)
+* [Class 06: Authentication](https://katyroffe.github.io/reading-notes/code401/class-6)
