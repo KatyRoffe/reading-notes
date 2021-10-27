@@ -68,3 +68,4 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 04: Data Modeling](https://katyroffe.github.io/reading-notes/code401/class-4)
 * [Class 05: Linked Lists](https://katyroffe.github.io/reading-notes/code401/class-5)
 * [Class 06: Authentication](https://katyroffe.github.io/reading-notes/code401/class-6)
+* [Class 07: Bearer Authorization](https://katyroffe.github.io/reading-notes/code401/class-7)
