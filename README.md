@@ -73,3 +73,4 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 09: Authorization/Authentication](https://katyroffe.github.io/reading-notes/code401/class-09)
 * [Class 10: Stacks & Queues](https://katyroffe.github.io/reading-notes/code401/class-10)
 * [Class 11: Event Driven Applications](https://katyroffe.github.io/reading-notes/code401/class-11)
+* [Class 12: Socket.io](https://katyroffe.github.io/reading-notes/code401/class-12)
