@@ -74,3 +74,7 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 10: Stacks & Queues](https://katyroffe.github.io/reading-notes/code401/class-10)
 * [Class 11: Event Driven Applications](https://katyroffe.github.io/reading-notes/code401/class-11)
 * [Class 12: Socket.io](https://katyroffe.github.io/reading-notes/code401/class-12)
+* Class 13: Attended CascadiaJS
+* Class 14: Attended CascadiaJS
+* [Class 15: Trees](https://katyroffe.github.io/reading-notes/code401/class-15)
+* [Class 16: AWS Cloud Servers](https://katyroffe.github.io/reading-notes/code401/class-16)
