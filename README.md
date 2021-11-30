@@ -81,5 +81,8 @@ Growth Mindset is not only the decision to become a better version of youself, b
 * [Class 17: S3 and Lambda](https://katyroffe.github.io/reading-notes/code401/class-17)
 * [Class 18: AWS: API, Dynamo and Lambda](https://katyroffe.github.io/reading-notes/code401/class-18)
 * [Class 19: Events](https://katyroffe.github.io/reading-notes/code401/class-19)
+* Class 20 - 25: Project Week
 * [Class 26: Component Based UI](https://katyroffe.github.io/reading-notes/code401/class-26)
 * [Class 27: useState Hooks](https://katyroffe.github.io/reading-notes/code401/class-27)
+* [Class 28: Component Lifecycle](https://katyroffe.github.io/reading-notes/code401/class-28)
+* [Class 29: Advanced State with Reducers](https://katyroffe.github.io/reading-notes/code401/class-29)
